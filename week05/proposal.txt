@@ -1,0 +1,57 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+    #context: I work for a onion company that export onions. I want to create
+    a python program that help us to be more organized in our shipment orders. 
+
+    Agro_AVE _onion_shipment.py 
+
+2. What real-world problem will your program address or help to solve?
+    We write our shipments orders using paper, so when we finish the day we still need to write an excel document with all the shipment info. I want to create a program to help me with this problem and keep our data more organized. 
+
+3. What will you learn from developing this program?
+    how to write a document with the information. I want to create a CSV with all the infomation. 
+
+4. What Python modules will your program use?
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+    CSV, Datetime, pytest, and maybe tkinder
+
+5. List the names of functions you will need?
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+    1. Main()
+    2. Create Dictionary function 
+    3. Create CSV function
+    4. Check keys function 
+    5. calculate the Kg of oinions in each trailer
+
+
+6. List the names of the test functions you will write.
+    test kg onions 
+    test create dictionary 
+
+
+    
+
