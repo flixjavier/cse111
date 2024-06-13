@@ -1,0 +1,39 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Answer====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+From May 27
+to Jun 1 2024   18      Construct the AGROAVE.py file, where I use Tkinder to build a form where we gather 
+                        all the necessary information to export Onions into USA. In this file I develop the main(), populate_main_window(), and some nested functions like Submit_info(), clear_entries(). During this week the program works gathering the information and appending all the information into a CSV file. 
+                        At the end of the week I create a second File "buscar_remision_AGROAVE.py", where this program help me to find the correct information inside the CSV. and Also display the data. 
+From Jun 1
+to Jun 3 2024      4    I create the test file and fix or
+                        add some other characteristics to the AGROAVE file. For example I add a weigth calculator that is helpful when submiting the information. 
+                        I tested some functions but the nested functios where outside of my scope. 
+                        Finally I added error handling code. 
+                        All the code Passed all 4 test.  
+
+NOTE: The program is writen in spanish, because the intention is to be used for others members of the team. I added comments to explain what every function do. 
+=============Answer====================
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
